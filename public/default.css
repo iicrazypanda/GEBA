@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Galano Grotesque;
+    src: url("GalanoGrotesque/OTF/GalanoGrotesqueDEMO-Bold.otf");
+  }
+
+body{
+font-family: Galano Grotesque, sans-serif;
+}
